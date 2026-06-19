@@ -18,7 +18,7 @@ DB_DIR = "pdf_dbs"
 
 st.title("PDF Q&A")
 
-groq_api_key = st.secrets("Groq API Key")
+groq_api_key = st.secrets["GROQ_API_KEY"]
 
 # ── Shared resources ─────────────────────────────────────────────
 @st.cache_resource
