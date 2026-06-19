@@ -8,4 +8,5 @@ langchain-huggingface
 langchain-groq
 langchain-community
 rank-bm25
+sentence-transformers
 streamlit
