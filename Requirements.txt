@@ -1,6 +1,7 @@
+PyMuPDF
 langchain
 langchain-core
 langchain-groq
 streamlit
 duckduckgo-search
-PyMuPDF
+
