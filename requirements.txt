@@ -1,7 +1,9 @@
 PyMuPDF
 langchain
-langchain-core
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
 langchain-groq
+langchain-community
+rank-bm25
 streamlit
-duckduckgo-search
-
