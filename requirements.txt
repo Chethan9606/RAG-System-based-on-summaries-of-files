@@ -1,7 +1,9 @@
 PyMuPDF
 langchain
 langchain-text-splitters
-langchain-chroma
+langchain-chroma==0.1.4
+chromadb==0.4.24
+protobuf==3.20.3
 langchain-huggingface
 langchain-groq
 langchain-community
